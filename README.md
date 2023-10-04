@@ -46,8 +46,6 @@ Before running the Gesture Wheel application, make sure you have the following p
 
 The model was trained on the Hand Gesture Recognition Database, which contains ten different hand gestures performed by ten different users.
 
-To train the model on a custom dataset, refer to the provided documentation in the [training section](training/README.md).
-
 ## How to Use
 
 1. Run the Gesture Wheel application, as explained in the [Usage](#usage) section.
@@ -60,4 +58,3 @@ To train the model on a custom dataset, refer to the provided documentation in t
 Gesture Wheel showcases the power of computer vision and machine learning in creating intuitive and interactive interfaces. By recognizing hand gestures in real-time, this project simplifies computer interaction for various tasks. The provided README file helps you set up and use the application, and it also guides you on how to train the model with your custom dataset.
 
 Feel free to contribute to and improve this project to make it even more versatile and user-friendly.
-```
